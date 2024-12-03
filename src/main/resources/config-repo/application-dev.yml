@@ -1,8 +1,0 @@
-spring:
-  datasource:
-    hikari:
-      jdbc-url: jdbc:mysql://localhost:3306/msa_exam?serverTimezone=Asia/Seoul
-      username: root
-      password: ${DB_PASSWORD}
-
-message: "product-service-dev message update"
