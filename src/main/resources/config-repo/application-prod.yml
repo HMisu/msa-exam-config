@@ -1,8 +1,0 @@
-spring:
-  datasource:
-    hikari:
-      jdbc-url: ${DB_URL_PROD}
-      username: root
-      password: ${DB_PASSWORD}
-
-message: "product-service-proud message update"
